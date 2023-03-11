@@ -1,0 +1,2 @@
+// Only change code below this line
+const myArray = [["nut",2],["breat",1]];
