@@ -1,0 +1,4 @@
+function functionWithArgs(x,x1){
+  console.log(x+x1)
+}
+functionWithArgs(67,89)
